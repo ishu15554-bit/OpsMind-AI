@@ -1,0 +1,23 @@
+@'
+
+# Secrets
+.env
+.env.*
+
+# Large datasets
+data/raw/
+data/external/
+data/processed/openstack_processed_logs.csv
+
+# Python cache and environments
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# MLflow
+mlruns/
+'@ | Add-Content .gitignore
+# MLflow tracking data
+mlruns/
+*.db

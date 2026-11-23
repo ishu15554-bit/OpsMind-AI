@@ -1,0 +1,42 @@
+
+# API and Dashboard
+fastapi
+uvicorn[standard]
+streamlit
+pydantic
+
+# Data Science and Machine Learning
+pandas
+numpy
+scipy
+scikit-learn
+xgboost
+shap
+joblib
+
+# Visualization
+matplotlib
+seaborn
+
+# Database
+sqlalchemy
+psycopg2-binary
+
+# Deep Learning and NLP
+torch
+sentence-transformers
+faiss-cpu
+
+# Generative AI and RAG
+groq
+python-dotenv
+
+# MLOps
+mlflow
+
+# Utilities and Testing
+requests
+pytest
+jupyter
+ipykernel
+  

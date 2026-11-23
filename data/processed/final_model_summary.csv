@@ -1,0 +1,4 @@
+Dataset,Selected Model,Model Type
+OpenStack Logs,Logistic Regression,Supervised Classification
+HDFS Logs,Random Forest,Supervised Classification
+ITSM Tickets,Linear SVM,Supervised Text Classification
